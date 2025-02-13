@@ -11,9 +11,11 @@
 <div>
   <h2>My Skills</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,ts,nodejs,materialui,firebase)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,ts,nodejs,materialui,firebase,mysql,postgres,postman)](https://skillicons.dev)
 
-  ![My Skills](https://img.shields.io/badge/-4285F4?logo=googleappsscript&logoColor=white&style=for-the-badge)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" style="height: 48px; witdh: 48px; border: 2px;"/>
+
+  <img src="https://debouge.co.uk/wp-content/uploads/2023/09/Google-workspace-logo-and-icons.png" style="height: 60px; witdh: 120px;"/>
   
 </div>
 
