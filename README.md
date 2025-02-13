@@ -22,6 +22,6 @@
 <div>
   <h2>Contacts</h2>
 
-  <a href="https://www.linkedin.com/in/lucas-lima-791442196">  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-lima-791442196) </a>
+  [![My Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-lima-791442196)
   
 </div>
