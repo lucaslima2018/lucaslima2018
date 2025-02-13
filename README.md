@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá sou o Lucas Lima
 
-<!--
-**lucaslima2018/lucaslima2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href=""/>
 
-Here are some ideas to get you started:
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslima2018&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima2018&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/>
+</div>
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h2>My Skills</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,ts,nodejs,materialui,firebase)](https://skillicons.dev)
+
+  ![My Skills](https://img.shields.io/badge/-4285F4?logo=googleappsscript&logoColor=white&style=for-the-badge)
+  
+</div>
+
+<hr/>
+
+<div>
+  <h2>Contacts</h2>
+
+  <a href="https://www.linkedin.com/in/lucas-lima-791442196">  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) </a>
+  
+</div>
