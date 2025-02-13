@@ -22,6 +22,6 @@
 <div>
   <h2>Contacts</h2>
 
-  [![My Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-lima-791442196)
+  <a target="_blank"> [![My Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-lima-791442196) </a>
   
 </div>
